@@ -4,7 +4,7 @@ AWS Transfer for SFTP is a fully-managed, highly-available SFTP service.
 
 **
 
-![SFTP Service for Amazon S3](https://github.com/kathpalrk/aws-transfer-sftp/sftp-for-s3-kathpal-rk.png)
+![SFTP Service for Amazon S3](https://github.com/kathpalrk/aws-transfer-sftp/blob/master/images/sftp-for-s3-kathpal-rk.png)
 
 ### Prerequisites
 1. S3 Bucket - BucketName (_For ex:: `sftp.dest.testbkt`)_
